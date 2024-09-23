@@ -1,0 +1,4 @@
+A IS int = IN();
+B IS int = IN() - A + 5;
+OUT(B);
+OUT(20);
