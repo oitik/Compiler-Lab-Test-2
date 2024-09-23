@@ -1,0 +1,5 @@
+Suppose K as INT;
+K = SCAN();
+K = K--;
+Suppose J as INT = K - 2;
+PRINT(J);
