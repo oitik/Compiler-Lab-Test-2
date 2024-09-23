@@ -1,0 +1,4 @@
+Sup X as INT = INPUT();
+X = X++;
+Sup Y as INT = X - 1;
+OUTPUT(Y);

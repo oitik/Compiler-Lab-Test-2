@@ -1,0 +1,4 @@
+let M as INT = SCAN();
+M = M--;
+let N as INT = 10-M;
+PRINT(N);
